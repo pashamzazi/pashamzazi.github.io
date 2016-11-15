@@ -61,6 +61,10 @@
                 "type":"Wireframe",
                 "url":"news_updates.html"},
 {
+                "pageName":"Events",
+                "type":"Wireframe",
+                "url":"events.html"},
+{
                 "pageName":"Users",
                 "type":"Wireframe",
                 "url":"users.html"}]}]},
@@ -87,7 +91,11 @@
 {
                 "pageName":"News Updates",
                 "type":"Wireframe",
-                "url":"news_updates_1.html"}]}]}]},
+                "url":"news_updates_1.html"},
+{
+                "pageName":"Events",
+                "type":"Wireframe",
+                "url":"events_1.html"}]}]}]},
   "globalVariables":{
     "onloadvariable":""},
   "defaultAdaptiveView":{

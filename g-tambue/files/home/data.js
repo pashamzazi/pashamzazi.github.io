@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"home.html",
-  "generationDate":new Date(1478805212067.27),
+  "generationDate":new Date(1479235420228.16),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -161,7 +161,7 @@
             "horizontalAlignment":"left",
             "foreGroundFill":{
               "fillType":"solid",
-              "color":0xFFAEAEAE,
+              "color":0xFFFFFFFF,
               "opacity":1},
             "fill":{
               "fillType":"solid",
@@ -188,7 +188,7 @@
                 "horizontalAlignment":"left",
                 "foreGroundFill":{
                   "fillType":"solid",
-                  "color":0xFFAEAEAE,
+                  "color":0xFFFFFFFF,
                   "opacity":1},
                 "fill":{
                   "fillType":"solid",
@@ -231,7 +231,7 @@
             "horizontalAlignment":"left",
             "foreGroundFill":{
               "fillType":"solid",
-              "color":0xFFAEAEAE,
+              "color":0xFFFFFFFF,
               "opacity":1},
             "fill":{
               "fillType":"solid",
@@ -258,7 +258,7 @@
                 "horizontalAlignment":"left",
                 "foreGroundFill":{
                   "fillType":"solid",
-                  "color":0xFFAEAEAE,
+                  "color":0xFFFFFFFF,
                   "opacity":1},
                 "fill":{
                   "fillType":"solid",
@@ -847,7 +847,7 @@
             "horizontalAlignment":"left",
             "foreGroundFill":{
               "fillType":"solid",
-              "color":0xFFAEAEAE,
+              "color":0xFFFFFFFF,
               "opacity":1},
             "fill":{
               "fillType":"solid",
@@ -874,7 +874,7 @@
                 "horizontalAlignment":"left",
                 "foreGroundFill":{
                   "fillType":"solid",
-                  "color":0xFFAEAEAE,
+                  "color":0xFFFFFFFF,
                   "opacity":1},
                 "fill":{
                   "fillType":"solid",
@@ -1550,7 +1550,77 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"resources/images/transparent.gif"}}]}},
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"c6d13b7c30034aabb536b0cfe2d81abb",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "horizontalAlignment":"left",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFF212121},
+            "location":{
+              "x":0,
+              "y":221},
+            "size":{
+              "width":250,
+              "height":42},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF434343}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ea20c06a920c4d218b8650328b5b743b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"left",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF212121},
+                "location":{
+                  "x":0,
+                  "y":221},
+                "size":{
+                  "width":250,
+                  "height":42},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF434343}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open Events in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"events_1.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/dashboard/u13.png"}}]}},
   "masters":{
     "e163cbb4cef54461ad56955f368f2e96":{
       "packageId":"e163cbb4cef54461ad56955f368f2e96",
@@ -1977,4 +2047,8 @@
     "8dfc3c34931c40648dc79b598d389bf9":{
       "scriptId":"u71"},
     "9c55010690204055853e456630f5bfe1":{
-      "scriptId":"u72"}}});
+      "scriptId":"u72"},
+    "c6d13b7c30034aabb536b0cfe2d81abb":{
+      "scriptId":"u73"},
+    "ea20c06a920c4d218b8650328b5b743b":{
+      "scriptId":"u74"}}});

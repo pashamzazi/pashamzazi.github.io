@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"surveys_-_create_sms_survey.html",
-  "generationDate":new Date(1478805205983.19),
+  "generationDate":new Date(1479235414087.05),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -863,6 +863,76 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
+            "normal~":"images/dashboard/u13.png"}},
+{
+          "id":"a46c77b8b30d499a9f8a5a45ba6c0d49",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "horizontalAlignment":"left",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFF212121},
+            "location":{
+              "x":-1,
+              "y":303},
+            "size":{
+              "width":250,
+              "height":42},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF434343}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"8e6d046bb0144e8abe606b595133d614",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"left",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF212121},
+                "location":{
+                  "x":-1,
+                  "y":303},
+                "size":{
+                  "width":250,
+                  "height":42},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF434343}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open Events in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"events.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
             "normal~":"images/dashboard/u13.png"}}]}},
   "masters":{
     "e163cbb4cef54461ad56955f368f2e96":{
@@ -1222,4 +1292,8 @@
     "cb40a81212c1459ea2ee4dbcfa80cf21":{
       "scriptId":"u37"},
     "1bc5edfd711b4dc49577cf91e011d2d7":{
-      "scriptId":"u38"}}});
+      "scriptId":"u38"},
+    "a46c77b8b30d499a9f8a5a45ba6c0d49":{
+      "scriptId":"u39"},
+    "8e6d046bb0144e8abe606b595133d614":{
+      "scriptId":"u40"}}});

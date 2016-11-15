@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"dashboard.html",
-  "generationDate":new Date(1478805201148.56),
+  "generationDate":new Date(1479235410029.97),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -161,7 +161,7 @@
             "horizontalAlignment":"left",
             "foreGroundFill":{
               "fillType":"solid",
-              "color":0xFFAEAEAE,
+              "color":0xFFFFFFFF,
               "opacity":1},
             "fill":{
               "fillType":"solid",
@@ -188,7 +188,7 @@
                 "horizontalAlignment":"left",
                 "foreGroundFill":{
                   "fillType":"solid",
-                  "color":0xFFAEAEAE,
+                  "color":0xFFFFFFFF,
                   "opacity":1},
                 "fill":{
                   "fillType":"solid",
@@ -231,7 +231,7 @@
             "horizontalAlignment":"left",
             "foreGroundFill":{
               "fillType":"solid",
-              "color":0xFFAEAEAE,
+              "color":0xFFFFFFFF,
               "opacity":1},
             "fill":{
               "fillType":"solid",
@@ -258,7 +258,7 @@
                 "horizontalAlignment":"left",
                 "foreGroundFill":{
                   "fillType":"solid",
-                  "color":0xFFAEAEAE,
+                  "color":0xFFFFFFFF,
                   "opacity":1},
                 "fill":{
                   "fillType":"solid",
@@ -301,7 +301,7 @@
             "horizontalAlignment":"left",
             "foreGroundFill":{
               "fillType":"solid",
-              "color":0xFFAEAEAE,
+              "color":0xFFFFFFFF,
               "opacity":1},
             "fill":{
               "fillType":"solid",
@@ -328,7 +328,7 @@
                 "horizontalAlignment":"left",
                 "foreGroundFill":{
                   "fillType":"solid",
-                  "color":0xFFAEAEAE,
+                  "color":0xFFFFFFFF,
                   "opacity":1},
                 "fill":{
                   "fillType":"solid",
@@ -917,7 +917,7 @@
             "horizontalAlignment":"left",
             "foreGroundFill":{
               "fillType":"solid",
-              "color":0xFFAEAEAE,
+              "color":0xFFFFFFFF,
               "opacity":1},
             "fill":{
               "fillType":"solid",
@@ -944,7 +944,7 @@
                 "horizontalAlignment":"left",
                 "foreGroundFill":{
                   "fillType":"solid",
-                  "color":0xFFAEAEAE,
+                  "color":0xFFFFFFFF,
                   "opacity":1},
                 "fill":{
                   "fillType":"solid",
@@ -987,7 +987,7 @@
             "horizontalAlignment":"left",
             "foreGroundFill":{
               "fillType":"solid",
-              "color":0xFFAEAEAE,
+              "color":0xFFFFFFFF,
               "opacity":1},
             "fill":{
               "fillType":"solid",
@@ -1014,7 +1014,7 @@
                 "horizontalAlignment":"left",
                 "foreGroundFill":{
                   "fillType":"solid",
-                  "color":0xFFAEAEAE,
+                  "color":0xFFFFFFFF,
                   "opacity":1},
                 "fill":{
                   "fillType":"solid",
@@ -2505,7 +2505,77 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"resources/images/transparent.gif"}}]}},
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"c25c2ede87184b9a9ac5ad1188b3aaf3",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "horizontalAlignment":"left",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFF212121},
+            "location":{
+              "x":-1,
+              "y":303},
+            "size":{
+              "width":250,
+              "height":42},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF434343}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e97ebbb1117b4ee48ac096539d09e1e5",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"left",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF212121},
+                "location":{
+                  "x":-1,
+                  "y":303},
+                "size":{
+                  "width":250,
+                  "height":42},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF434343}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open Events in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"events.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/dashboard/u13.png"}}]}},
   "masters":{
     "e163cbb4cef54461ad56955f368f2e96":{
       "packageId":"e163cbb4cef54461ad56955f368f2e96",
@@ -3008,4 +3078,8 @@
     "8dfc3c34931c40648dc79b598d389bf9":{
       "scriptId":"u109"},
     "9c55010690204055853e456630f5bfe1":{
-      "scriptId":"u110"}}});
+      "scriptId":"u110"},
+    "c25c2ede87184b9a9ac5ad1188b3aaf3":{
+      "scriptId":"u111"},
+    "e97ebbb1117b4ee48ac096539d09e1e5":{
+      "scriptId":"u112"}}});
