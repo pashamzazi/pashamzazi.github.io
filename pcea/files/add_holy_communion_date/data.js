@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"add_holy_communion_date.html",
-  "generationDate":new Date(1476851064615.07),
+  "generationDate":new Date(1481354571249.8),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -94,7 +94,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/church_groups/u13.png"}},
+            "normal~":"images/members/u13.png"}},
 {
           "id":"fa4229a818304ecb8f20c64469727105",
           "label":"",
@@ -182,7 +182,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/church_groups/u17.png"}},
+            "normal~":"images/members/u17.png"}},
 {
           "id":"5c318e60b9e14db4915d0e17120ddc12",
           "label":"",
@@ -303,7 +303,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/church_groups/u21.png"}},
+            "normal~":"images/members/u19.png"}},
 {
           "id":"d73792f9d49d45bf820e75643566f6a8",
           "label":"",
@@ -1918,7 +1918,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/church_groups/u95_line.png"}},
+            "line~":"images/members/u112_line.png"}},
 {
           "id":"cefeca6541a34aa3ab88650dbae90c4a",
           "label":"",
@@ -1950,16 +1950,18 @@
           "adaptiveStyles":{
 }},
 {
-          "id":"8ca2e91e84b8414dae553170428c7b37",
+          "id":"01fb0b3b790e48f0b624f830c103e6c1",
           "label":"",
           "type":"buttonShape",
           "styleType":"buttonShape",
           "visible":true,
           "style":{
+            "fontName":"'Arial Bold', 'Arial'",
+            "fontWeight":"700",
             "horizontalAlignment":"left",
             "foreGroundFill":{
               "fillType":"solid",
-              "color":0xFFFFFFFF,
+              "color":0xFF1996C7,
               "opacity":1},
             "fill":{
               "fillType":"solid",
@@ -1976,17 +1978,19 @@
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"516708c959a14859ad4d27ce976e01cf",
+              "id":"781373c8db0b4e0c8734b4338d09cda3",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
               "styleType":"paragraph",
               "visible":true,
               "style":{
+                "fontName":"'Arial Bold', 'Arial'",
+                "fontWeight":"700",
                 "horizontalAlignment":"left",
                 "foreGroundFill":{
                   "fillType":"solid",
-                  "color":0xFFFFFFFF,
+                  "color":0xFF1996C7,
                   "opacity":1},
                 "fill":{
                   "fillType":"solid",
@@ -2020,7 +2024,7 @@
           "images":{
             "normal~":"images/dashboard/u15.png"}},
 {
-          "id":"7b9de1ad25ff440abe00bf030f6aee0b",
+          "id":"0ad041cf2c344e0894711c087168d5b3",
           "label":"",
           "type":"buttonShape",
           "styleType":"buttonShape",
@@ -2036,7 +2040,7 @@
               "color":0xFF212121},
             "location":{
               "x":0,
-              "y":95},
+              "y":137},
             "size":{
               "width":250,
               "height":42},
@@ -2046,7 +2050,7 @@
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"8bbcb566c1eb437db35376a2a66abf0e",
+              "id":"d0bf9fafa10446d196d4df1d088ffa69",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
@@ -2063,7 +2067,7 @@
                   "color":0xFF212121},
                 "location":{
                   "x":0,
-                  "y":95},
+                  "y":137},
                 "size":{
                   "width":250,
                   "height":42},
@@ -2090,7 +2094,7 @@
           "images":{
             "normal~":"images/dashboard/u15.png"}},
 {
-          "id":"3137eab007604de6811d5d71fd80c4e2",
+          "id":"23a47972c911488f9b16309d81f65225",
           "label":"",
           "type":"buttonShape",
           "styleType":"buttonShape",
@@ -2106,7 +2110,7 @@
               "color":0xFF212121},
             "location":{
               "x":0,
-              "y":136},
+              "y":178},
             "size":{
               "width":250,
               "height":42},
@@ -2116,7 +2120,7 @@
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"cf99811bc24940eda68684db0833b0fc",
+              "id":"104ea022f8104a658d395fe8adb40ca3",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
@@ -2133,7 +2137,7 @@
                   "color":0xFF212121},
                 "location":{
                   "x":0,
-                  "y":136},
+                  "y":178},
                 "size":{
                   "width":250,
                   "height":42},
@@ -2160,81 +2164,7 @@
           "images":{
             "normal~":"images/dashboard/u15.png"}},
 {
-          "id":"1dfb6ccb6edb47be9064f30f113668e9",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"buttonShape",
-          "visible":true,
-          "style":{
-            "fontName":"'Arial Bold', 'Arial'",
-            "fontWeight":"700",
-            "horizontalAlignment":"left",
-            "foreGroundFill":{
-              "fillType":"solid",
-              "color":0xFF1996AD,
-              "opacity":1},
-            "fill":{
-              "fillType":"solid",
-              "color":0xFF212121},
-            "location":{
-              "x":0,
-              "y":177},
-            "size":{
-              "width":250,
-              "height":42},
-            "borderFill":{
-              "fillType":"solid",
-              "color":0xFF434343}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"62e0e07444ad45eea657075c5c3b5b03",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "fontName":"'Arial Bold', 'Arial'",
-                "fontWeight":"700",
-                "horizontalAlignment":"left",
-                "foreGroundFill":{
-                  "fillType":"solid",
-                  "color":0xFF1996AD,
-                  "opacity":1},
-                "fill":{
-                  "fillType":"solid",
-                  "color":0xFF212121},
-                "location":{
-                  "x":0,
-                  "y":177},
-                "size":{
-                  "width":250,
-                  "height":42},
-                "borderFill":{
-                  "fillType":"solid",
-                  "color":0xFF434343}},
-              "adaptiveStyles":{
-}}],
-          "interactionMap":{
-            "onClick":{
-              "description":"OnClick",
-              "cases":[{
-                  "description":"Case 1",
-                  "isNewIfGroup":false,
-                  "actions":[{
-                      "action":"linkWindow",
-                      "description":"Open Holy Communion in Current Window",
-                      "target":{
-                        "targetType":"page",
-                        "url":"holy_communion.html",
-                        "includeVariables":true},
-                      "linkType":"current"}]}]}},
-          "tabbable":true,
-          "images":{
-            "normal~":"images/dashboard/u15.png"}},
-{
-          "id":"92db7a4f86204748bc6cc5d5dc30949c",
+          "id":"5cac9ba662454649b1efe8252ba44b99",
           "label":"",
           "type":"buttonShape",
           "styleType":"buttonShape",
@@ -2260,7 +2190,7 @@
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"727b2ef31cc442208f3b4c463bf75b96",
+              "id":"b6a073ea75424a458cdc5431fed9d528",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
@@ -2294,17 +2224,17 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"Open Events in Current Window",
+                      "description":"Open Holy Communion in Current Window",
                       "target":{
                         "targetType":"page",
-                        "url":"events.html",
+                        "url":"holy_communion.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
             "normal~":"images/dashboard/u15.png"}},
 {
-          "id":"1fb79ceceab64bc09cfd5edc27a8aec4",
+          "id":"647a7daeee054e26b833648317633248",
           "label":"",
           "type":"buttonShape",
           "styleType":"buttonShape",
@@ -2330,7 +2260,7 @@
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"68c5882cd1e549a9a66353693cfe2ad7",
+              "id":"879f4c1c12fb436194bcc294631c2968",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
@@ -2364,17 +2294,17 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"Open Compose in Current Window",
+                      "description":"Open Events in Current Window",
                       "target":{
                         "targetType":"page",
-                        "url":"compose.html",
+                        "url":"events.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
             "normal~":"images/dashboard/u15.png"}},
 {
-          "id":"e442aea7f72a4564879d89f0474d6f6b",
+          "id":"3448ace5c2594ee6b938f5f2441d386d",
           "label":"",
           "type":"buttonShape",
           "styleType":"buttonShape",
@@ -2400,7 +2330,7 @@
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"11af17d5f5c1427bafe8bf404869e441",
+              "id":"fcb7fc736b2944d6963885c31d31e6d2",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
@@ -2434,10 +2364,150 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
+                      "description":"Open Compose in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"compose.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/dashboard/u15.png"}},
+{
+          "id":"fc548be598544b65a4e5cd6d46c1b180",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "horizontalAlignment":"left",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFAEAEAE,
+              "opacity":1},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFF212121},
+            "location":{
+              "x":0,
+              "y":345},
+            "size":{
+              "width":250,
+              "height":42},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF434343}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"59a28ceb3c974ad488e3f4596944eb2d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"left",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFAEAEAE,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF212121},
+                "location":{
+                  "x":0,
+                  "y":345},
+                "size":{
+                  "width":250,
+                  "height":42},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF434343}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
                       "description":"Open Users in Current Window",
                       "target":{
                         "targetType":"page",
                         "url":"users.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/dashboard/u15.png"}},
+{
+          "id":"902327d97e4a4879a338ddca7434460f",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "horizontalAlignment":"left",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFAEAEAE,
+              "opacity":1},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFF212121},
+            "location":{
+              "x":0,
+              "y":95},
+            "size":{
+              "width":250,
+              "height":42},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF434343}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"42437d59014d438daef2221f7a03b3b8",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"left",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFAEAEAE,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF212121},
+                "location":{
+                  "x":0,
+                  "y":95},
+                "size":{
+                  "width":250,
+                  "height":42},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF434343}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open Members in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"members.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -2961,31 +3031,35 @@
       "scriptId":"u95"},
     "4f4a2be9e1a54273a66636956138235f":{
       "scriptId":"u96"},
-    "8ca2e91e84b8414dae553170428c7b37":{
+    "01fb0b3b790e48f0b624f830c103e6c1":{
       "scriptId":"u97"},
-    "516708c959a14859ad4d27ce976e01cf":{
+    "781373c8db0b4e0c8734b4338d09cda3":{
       "scriptId":"u98"},
-    "7b9de1ad25ff440abe00bf030f6aee0b":{
+    "0ad041cf2c344e0894711c087168d5b3":{
       "scriptId":"u99"},
-    "8bbcb566c1eb437db35376a2a66abf0e":{
+    "d0bf9fafa10446d196d4df1d088ffa69":{
       "scriptId":"u100"},
-    "3137eab007604de6811d5d71fd80c4e2":{
+    "23a47972c911488f9b16309d81f65225":{
       "scriptId":"u101"},
-    "cf99811bc24940eda68684db0833b0fc":{
+    "104ea022f8104a658d395fe8adb40ca3":{
       "scriptId":"u102"},
-    "1dfb6ccb6edb47be9064f30f113668e9":{
+    "5cac9ba662454649b1efe8252ba44b99":{
       "scriptId":"u103"},
-    "62e0e07444ad45eea657075c5c3b5b03":{
+    "b6a073ea75424a458cdc5431fed9d528":{
       "scriptId":"u104"},
-    "92db7a4f86204748bc6cc5d5dc30949c":{
+    "647a7daeee054e26b833648317633248":{
       "scriptId":"u105"},
-    "727b2ef31cc442208f3b4c463bf75b96":{
+    "879f4c1c12fb436194bcc294631c2968":{
       "scriptId":"u106"},
-    "1fb79ceceab64bc09cfd5edc27a8aec4":{
+    "3448ace5c2594ee6b938f5f2441d386d":{
       "scriptId":"u107"},
-    "68c5882cd1e549a9a66353693cfe2ad7":{
+    "fcb7fc736b2944d6963885c31d31e6d2":{
       "scriptId":"u108"},
-    "e442aea7f72a4564879d89f0474d6f6b":{
+    "fc548be598544b65a4e5cd6d46c1b180":{
       "scriptId":"u109"},
-    "11af17d5f5c1427bafe8bf404869e441":{
-      "scriptId":"u110"}}});
+    "59a28ceb3c974ad488e3f4596944eb2d":{
+      "scriptId":"u110"},
+    "902327d97e4a4879a338ddca7434460f":{
+      "scriptId":"u111"},
+    "42437d59014d438daef2221f7a03b3b8":{
+      "scriptId":"u112"}}});

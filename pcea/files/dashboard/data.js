@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"dashboard.html",
-  "generationDate":new Date(1476851062510.68),
+  "generationDate":new Date(1481354550655.01),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -168,7 +168,7 @@
               "color":0xFF212121},
             "location":{
               "x":0,
-              "y":95},
+              "y":137},
             "size":{
               "width":250,
               "height":42},
@@ -195,7 +195,7 @@
                   "color":0xFF212121},
                 "location":{
                   "x":0,
-                  "y":95},
+                  "y":137},
                 "size":{
                   "width":250,
                   "height":42},
@@ -238,7 +238,7 @@
               "color":0xFF212121},
             "location":{
               "x":0,
-              "y":136},
+              "y":178},
             "size":{
               "width":250,
               "height":42},
@@ -265,7 +265,7 @@
                   "color":0xFF212121},
                 "location":{
                   "x":0,
-                  "y":136},
+                  "y":178},
                 "size":{
                   "width":250,
                   "height":42},
@@ -308,7 +308,7 @@
               "color":0xFF212121},
             "location":{
               "x":0,
-              "y":177},
+              "y":219},
             "size":{
               "width":250,
               "height":42},
@@ -335,7 +335,7 @@
                   "color":0xFF212121},
                 "location":{
                   "x":0,
-                  "y":177},
+                  "y":219},
                 "size":{
                   "width":250,
                   "height":42},
@@ -924,7 +924,7 @@
               "color":0xFF212121},
             "location":{
               "x":0,
-              "y":219},
+              "y":261},
             "size":{
               "width":250,
               "height":42},
@@ -951,7 +951,7 @@
                   "color":0xFF212121},
                 "location":{
                   "x":0,
-                  "y":219},
+                  "y":261},
                 "size":{
                   "width":250,
                   "height":42},
@@ -994,7 +994,7 @@
               "color":0xFF212121},
             "location":{
               "x":0,
-              "y":261},
+              "y":303},
             "size":{
               "width":250,
               "height":42},
@@ -1021,7 +1021,7 @@
                   "color":0xFF212121},
                 "location":{
                   "x":0,
-                  "y":261},
+                  "y":303},
                 "size":{
                   "width":250,
                   "height":42},
@@ -1064,7 +1064,7 @@
               "color":0xFF212121},
             "location":{
               "x":0,
-              "y":303},
+              "y":345},
             "size":{
               "width":250,
               "height":42},
@@ -1091,7 +1091,7 @@
                   "color":0xFF212121},
                 "location":{
                   "x":0,
-                  "y":303},
+                  "y":345},
                 "size":{
                   "width":250,
                   "height":42},
@@ -4049,7 +4049,77 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/dashboard/rectangle_u153.png"}}]}},
+            "normal~":"images/dashboard/rectangle_u153.png"}},
+{
+          "id":"da073d36619a402abbf28b1c603d3b80",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "horizontalAlignment":"left",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFAEAEAE,
+              "opacity":1},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFF212121},
+            "location":{
+              "x":0,
+              "y":95},
+            "size":{
+              "width":250,
+              "height":42},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF434343}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6ada7f0c197e4755931f0af743aa7286",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"left",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFAEAEAE,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF212121},
+                "location":{
+                  "x":0,
+                  "y":95},
+                "size":{
+                  "width":250,
+                  "height":42},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF434343}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open Members in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"members.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/dashboard/u15.png"}}]}},
   "masters":{
     "e163cbb4cef54461ad56955f368f2e96":{
       "packageId":"e163cbb4cef54461ad56955f368f2e96",
@@ -4707,4 +4777,8 @@
     "70c8aa4bfd76441a99aba3264a07d596":{
       "scriptId":"u165"},
     "91e1e79a90cb44ac9274934d153bffea":{
-      "scriptId":"u166"}}});
+      "scriptId":"u166"},
+    "da073d36619a402abbf28b1c603d3b80":{
+      "scriptId":"u167"},
+    "6ada7f0c197e4755931f0af743aa7286":{
+      "scriptId":"u168"}}});

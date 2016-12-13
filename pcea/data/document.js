@@ -25,6 +25,14 @@
             "type":"Wireframe",
             "url":"dashboard.html",
             "children":[{
+                "pageName":"Members",
+                "type":"Wireframe",
+                "url":"members.html",
+                "children":[{
+                    "pageName":"Add Member",
+                    "type":"Wireframe",
+                    "url":"add_member.html"}]},
+{
                 "pageName":"Church groups",
                 "type":"Wireframe",
                 "url":"church_groups.html",
